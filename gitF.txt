@@ -1,0 +1,3 @@
+git pull --rebase origin master
+应对  failed to push some refs to git问题
+git remote 前要git init
