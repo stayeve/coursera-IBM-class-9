@@ -13,10 +13,11 @@ Applied Data Science Capstone Class Work
 *   We also have district data of San Francisco that can help us show our result. There will be a clear look on the map
 ---
 #Report  
-https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Report.pdf
+https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Report.pdf  
 ---
 #Notebook  
-https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Capstone_The_Battle_of_the_Neighborhoods.ipynb
+https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Capstone_The_Battle_of_the_Neighborhoods.ipynb  
 ---
 #Presentation  
-https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Presentation.pptx
+https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Presentation.pptx  
+---
