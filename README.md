@@ -12,11 +12,11 @@ Applied Data Science Capstone Class Work
 *   The data from Foursquare, which include the geographical coordinates of restarants, malls, schools, etc. We try to utilize it to find customer groups and cluster the place and find the best position.
 *   We also have district data of San Francisco that can help us show our result. There will be a clear look on the map
 ---
-#Report
+#Report  
 https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Report.pdf
 ---
-#Notebook
+#Notebook  
 https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Capstone_The_Battle_of_the_Neighborhoods.ipynb
 ---
-#Presentation
+#Presentation  
 https://github.com/stayeve/coursera-IBM-class-9/blob/master/Final/Presentation.pptx
